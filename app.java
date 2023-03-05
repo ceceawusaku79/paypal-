@@ -5,3 +5,4 @@ developing java apps
 =======
  NodeJS applications
 >>>>>>> development
+Bug removed
