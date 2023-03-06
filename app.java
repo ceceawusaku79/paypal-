@@ -1,10 +1,14 @@
 This is great
 developing java apps
-<<<<<<< HEAD
+HEAD
 .net applications
-=======
- NodeJS applications
->>>>>>> development
+HEAD
+NodeJS applications
+development
 This a test msg
 excellent job
 second time for this app
+NodeJS applications
+development
+Bug removed
+master
