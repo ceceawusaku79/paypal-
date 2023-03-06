@@ -1,8 +1,7 @@
 This is great
 developing java apps
-<<<<<<< HEAD
+HEAD
 .net applications
-=======
- NodeJS applications
->>>>>>> development
+NodeJS applications
+development
 Bug removed
